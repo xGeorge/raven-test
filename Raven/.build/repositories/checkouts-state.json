@@ -1,0 +1,23 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/Alamofire/Alamofire.git" : {
+        "repositoryURL" : "https://github.com/Alamofire/Alamofire.git",
+        "subpath" : "Alamofire-e8f130fe"
+      },
+      "https://github.com/AliSoftware/OHHTTPStubs.git" : {
+        "repositoryURL" : "https://github.com/AliSoftware/OHHTTPStubs.git",
+        "subpath" : "OHHTTPStubs-c6ddfec9"
+      },
+      "https://github.com/ReactiveX/RxSwift.git" : {
+        "repositoryURL" : "https://github.com/ReactiveX/RxSwift.git",
+        "subpath" : "RxSwift-87bc79fc"
+      },
+      "https://github.com/RxSwiftCommunity/RxAlamofire.git" : {
+        "repositoryURL" : "https://github.com/RxSwiftCommunity/RxAlamofire.git",
+        "subpath" : "RxAlamofire-3739a978"
+      }
+    }
+  },
+  "version" : 1
+}

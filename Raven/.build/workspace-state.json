@@ -1,0 +1,78 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "alamofire",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/Alamofire/Alamofire.git",
+          "name" : "Alamofire"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+            "version" : "5.6.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Alamofire"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "ohhttpstubs",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/AliSoftware/OHHTTPStubs.git",
+          "name" : "OHHTTPStubs"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "12f19662426d0434d6c330c6974d53e2eb10ecd9",
+            "version" : "9.1.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "OHHTTPStubs"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "rxalamofire",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/RxSwiftCommunity/RxAlamofire.git",
+          "name" : "RxAlamofire"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "9535b58695b91fb67f56d58d6fd0c76462d7743a",
+            "version" : "6.1.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "RxAlamofire"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "rxswift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/ReactiveX/RxSwift.git",
+          "name" : "RxSwift"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+            "version" : "6.5.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "RxSwift"
+      }
+    ]
+  },
+  "version" : 5
+}
